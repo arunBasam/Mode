@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.container {
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 50vh;
+  padding: 20px;
+}
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.but {
+  border-radius: 5px;
+  margin: 10px;
+  background-color: white;
+}
+.cont {
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin-top: 50vh;
+  padding: 20px;
+}
+.buts {
+  border-radius: 5px;
+  margin: 10px;
+  background-color: black;
+}
